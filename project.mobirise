@@ -72,7 +72,9 @@
     "noImageResize": "",
     "uniqCompNum": 181,
     "versionPublish": "4.11.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///Users/nyeinchanaung/Desktop/untitled%20folder%203"
   },
   "pages": {
     "index.html": {
